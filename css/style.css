@@ -164,8 +164,6 @@ a:hover {
 }
 
 .bg-coming-soon {
-  background: url(../images/background/comming-soon.jpg) fixed no-repeat;
-  background-size: cover;
   background-position: bottom;
 }
 
